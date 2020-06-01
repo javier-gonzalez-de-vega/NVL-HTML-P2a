@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   <meta charset="utf-8">
+   <title>My test page</title>
+ </head>
+ <body>
+   <img src="../Archivo GitHub/descarga.png" alt="Logo de la liga" width="600px" height="500px">
+   <h1>Clasificación de la Liga 01/06/20</h1>
+   <ol>
+       <li>Barcelona 58 pts</li>
+       <li>Real Madrid 56 pts</li>
+       <li>Sevilla 47 pts</li>
+       <li>R.Sociedad 46 pts</li>
+       <li>Getafe 46 pts</li>
+       <li>Atlético de Madrid 45 pts</li>
+       <li>Valencia 42 pts</li>
+       <li>Villareal 38 pts</li>
+       <li>Granada 38 pts</li>
+       <li>Athletic 37 pts</li>
+       <li>Osasuna 34 pts</li>
+       <li>Betis 33 pts</li>
+       <li>Levante 33 pts</li>
+       <li>Alavés 32 pts</li>
+       <li>Valladolid 29 pts</li>
+       <li>Eibar 27 pts</li>
+       <li>Celta 26 pts</li>
+       <li>Mallorca 23 pts</li>
+       <li>Leganés 23 pts</li>
+       <li>Espanyol 20 pts</li>
+   </ol>
+ </body>
+</html>
